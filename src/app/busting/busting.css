@@ -1,0 +1,264 @@
+@media screen and (max-width:390px) and (max-width: 844px){
+  .main-name{
+  font-size: 15px;
+  }
+
+ .boxing-two{
+  margin-left: -2.3vh !important;
+ }
+  
+  .boxing-one{
+   margin-top: -4vh !important;
+
+  }
+
+  .title-buttons{
+    margin-top: 7%;
+  }
+
+}
+
+body{
+    background-color: #141414;
+}
+
+ 
+.navigation-panel { 
+  display: flex;
+  align-items: center;
+  border: 1px solid #ffe4ca;
+  background-color: #464646;
+  border-radius: 20px;
+  justify-content: center;  
+  align-items:center;  
+  margin: 0 4px 23px;
+  padding: 0 -25px 0 -10px;
+  margin-bottom:8vh;
+  margin-left: 1.7vh;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-right: 1vh;
+  font-family: "Montserrat", sans-serif; 
+  font-optical-sizing: auto; 
+  font-style: 700; 
+  position: fixed; 
+  font-size: 12px; 
+  bottom: 0; 
+  width: 90%; 
+  height:7%;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  z-index: 100;
+} 
+
+.Cards{
+    display: flex;
+    gap: 79px;
+    font-size: 18px;
+    position: absolute;
+    width: 75%;
+    height: 4%;
+    border-radius: 15px;
+    background-color: #464646;
+    padding-left: 6vh;
+    padding-top: 1vh;
+    left: 6.5%;
+    top:16%;
+  }
+
+  .main-name{
+    color: rgb(193, 198, 199);
+    margin: 1px -13px -1px 14px;
+  }
+
+  .block-section{
+    display: flex;
+    width: 20%;
+    height: 2%;
+    color: #d3d0d0;
+    position: absolute;
+    left: 4%;
+    top: 8%;
+  }
+  
+  .block-section-two{
+    display: flex;
+    color: #d3d0d0;
+    position: absolute;
+    left: 31%;
+    top: 8%;
+  }
+  
+  .block-section-two-two{
+    display: flex;
+    color: #d3d0d0;
+    position: absolute;
+    left: 67%;
+    top: 9.5%;
+  }
+
+  .items-section{
+    color:#464646;
+    margin-left: 5vh;
+  }
+  
+  .items-section-two{
+    margin-top: 4vh;
+    margin-left: -5vh;
+  }
+  
+  
+  .items-section-two-two{
+    margin-top: 4vh;
+    margin-left: -7vh;
+    font-weight: bold;
+  }
+  
+  .items-section-svg{
+    color:#464646;
+    position: absolute;
+    width: 90px;
+    margin-top: 0.3vh;
+   margin-left: 4vh;
+  }
+  
+  .items-section-two-svg{
+    position: absolute;
+    margin-top: 2.6vh;
+    margin-left:5vh;
+  }
+
+  
+.img-two-img-two{
+    position: absolute;
+    top: 46%;
+    left: -8%;
+   }
+   
+
+   .img-two-img-two-img-img{
+    position: absolute;
+    margin-top: 0.7vh;
+   }
+  
+   
+.img-two-img-two-img{
+    position: absolute;
+    top: -9%;
+    left: -18%;
+    }
+
+ a{
+    color: #d3d0d0;
+    list-style: none;
+    text-decoration: none;
+      }
+
+.hero-title{
+  position: absolute;
+  color: azure;
+  text-align: center;
+  width: 99%;
+  height: 3%;
+  margin-left: -6vh;
+  margin-top: 7vh;
+  font-size: 27px;
+  font-weight: bolder;
+  }
+      
+.hero-main-title{
+    position: absolute;
+    color: azure;
+    width: 90%;
+    display: flex;
+  align-items: center;
+
+  margin-left:-6vh;
+  margin-top: 20vh;
+  font-size: 25px;
+  font-weight: bolder;
+} 
+
+.boxing{
+    background-color: #1d1e20;
+    width:210%;
+    height: 25%;
+    border-radius: 30px;
+    padding: 4vh 10vh 11.2vh;
+    margin-left: -43vh;
+    margin-top: 30vh;
+}
+
+
+
+.img-6{
+  position: absolute;
+  margin-left: 20px;
+  height: 80px;
+  margin-top: -5px;
+}
+
+
+
+
+
+
+
+
+.box-title{
+  position: absolute;
+  background-color: #8b8b93;
+  border-radius: 30px;
+  margin-left: 15.5vh;
+  margin-top: 21.5vh;
+  width: 42px;
+  height: 25px;
+}
+
+.box-list{
+  position: absolute;
+  color: aliceblue;
+  font-size: 14px;
+  margin-top: 0.2vh;
+  margin-left: 0.8vh;
+}
+
+
+
+
+.boxing-two{
+  margin-left: -1.8vh;
+  margin-top: 3px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.boxing-three{
+  color: #a2a3a5;
+  font-size: 16px;
+  position: absolute;
+  left: 110%;
+  top: -50%;
+}
+
+.buttons{
+  background-color: #d4510b;
+  border: none;
+  position: absolute;
+  border-radius: 25px;
+  width: 100%;
+  height: 140%;
+  padding-left: 26vh ;
+}
+
+
+
+.title-buttons{
+  color: aliceblue;
+  position: absolute;
+  left: 30%;
+  top: -25%;
+  font-size: 18px;
+  text-align: center;
+}

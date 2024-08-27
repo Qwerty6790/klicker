@@ -1,0 +1,153 @@
+
+
+ @media screen and (max-width:390px) and (max-width: 844px){
+  .main-name{
+  font-size: 15px;
+  }
+
+ .boxing-two{
+  margin-left: -2.3vh !important;
+ }
+  
+  .boxing-one{
+   margin-top: -4vh !important;
+
+  }
+
+  .title-buttons{
+    margin-top: 7%;
+  }
+
+}
+
+body{
+    background-color: #141414;
+}
+
+ 
+.navigation-panel { 
+  display: flex;
+  align-items: center;
+  border: 1px solid #ffe4ca;
+  background-color: #464646;
+  border-radius: 20px;
+  justify-content: center;  
+  align-items:center;  
+  margin: 0 4px 23px;
+  padding: 0 -25px 0 -10px;
+  margin-bottom:8vh;
+  margin-left: 1.7vh;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-right: 1vh;
+  font-family: "Montserrat", sans-serif; 
+  font-optical-sizing: auto; 
+  font-style: 700; 
+  position: fixed; 
+  font-size: 12px; 
+  bottom: 0; 
+  width: 90%; 
+  height:7%;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  z-index: 100;
+} 
+
+
+
+
+
+  
+
+
+
+.boxing-one{
+  color: aliceblue;
+  width: 120%;
+  font-weight: bold;
+  margin-top: -0.9vh;
+  margin-left: -1.2vh;
+}
+
+
+      
+
+.boxing{
+
+    width:110%;
+    height: 25%;
+    border-radius: 30px;
+    margin-left: -50px;
+    margin-top:30vh;
+}
+
+
+
+.img-6{
+  position: absolute;
+  width: 20%;
+  left: -1%;
+  top: 710%;
+}
+
+
+
+
+
+
+
+.boxing-span{
+  background-color: #fed52d;
+  position: absolute;
+  width: 10%;
+  height: 55%;
+  font-size: 13px;
+  border-radius: 30px;
+  margin-top: -1.5vh;
+ padding-left: 30px;
+  padding-top: -5vh;
+  padding-bottom: 0.1vh;
+  left: 20%;
+}
+
+.box-title{
+  position: absolute;
+  background-color: #8b8b93;
+  border-radius: 30px;
+  margin-left: 15.5vh;
+  margin-top: 21.5vh;
+  width: 42px;
+  height: 25px;
+}
+
+
+
+
+.boxing-two{
+  margin-left: -21px;
+  margin-top: 3px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+
+.buttons{
+  background-color: #d4510b;
+  border: none;
+  position: absolute;
+  border-radius: 25px;
+  width: 100%;
+  height: 140%;
+  padding-left: 26vh ;
+}
+
+.title-buttons{
+  color: aliceblue;
+  position: absolute;
+  left: 30%;
+  top: -25%;
+  font-size: 18px;
+  text-align: center;
+}
